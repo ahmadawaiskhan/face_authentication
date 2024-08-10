@@ -16,6 +16,7 @@ s
 ### Step 1-: Clone the Repository
 ```
 git clone https://github.com/Ashish-Ghoshal/Deep_Auth.git
+```
 
 ### Step 2-: Creat conda environment
 ```
