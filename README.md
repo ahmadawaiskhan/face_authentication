@@ -11,7 +11,7 @@ This is a modern Face Authentication System which includes state-of-art algorith
 Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need Azure account to access the service like ACS and App services.
 
 
-s
+
 
 ### Step 1-: Clone the Repository
 ```
