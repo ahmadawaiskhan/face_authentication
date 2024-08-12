@@ -37,6 +37,7 @@ pip install -r requirements.txt
 ```
 export SECRET_KEY=<SECRET_KEY>
 
+
 export ALGORITHM=<ALGORITHM>
 
 export MONGODB_URL_KEY=<MONGODB_URL_KEY>
