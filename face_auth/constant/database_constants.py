@@ -1,8 +1,5 @@
-from face_auth.utils.util import CommonUtils
-
-MONGODB_URL_KEY = CommonUtils().get_environment_variable("MONGODB_URL_KEY")
-DATABASE_NAME = CommonUtils().get_environment_variable("DATABASE_NAME")
-USER_COLLECTION_NAME = CommonUtils().get_environment_variable("USER_COLLECTION_NAME")
-EMBEDDING_COLLECTION_NAME = CommonUtils().get_environment_variable(
-    "EMBEDDING_COLLECTION_NAME"
-)
+# Hardcoded MongoDB details
+MONGODB_URL_KEY = "mongodb+srv://awais:awais1122@cluster0.crj8r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_NAME = "UserDatabase"
+USER_COLLECTION_NAME = "Users"
+EMBEDDING_COLLECTION_NAME = "Embeddings"
