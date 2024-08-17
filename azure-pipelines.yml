@@ -13,7 +13,7 @@ variables:
   dockerRegistryServiceConnection: '8256ac57-e76d-40ac-8116-84476e328ab7'
   imageRepository: 'ahmadawaiskhanfaceauthentication'
   containerRegistry: 'faceauthcr.azurecr.io'
-  dockerfilePath: 'Docker file'
+  dockerfilePath: 'Dockerfile'
   tag: '$(Build.BuildId)'
 
   # Agent VM image name
