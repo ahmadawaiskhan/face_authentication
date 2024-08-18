@@ -1,8 +1,8 @@
 pandas
-pymongo[srv]
+pymongo
 fastapi
 python-jose
-uvicorn[standard]
+uvicorn
 python-multipart
 Jinja2
 bcrypt
